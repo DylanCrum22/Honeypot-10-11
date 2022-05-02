@@ -24,3 +24,4 @@ I tried to run the command to recive the json file but was unable to get the com
 ![chrome_jmBj6JRaWr](https://user-images.githubusercontent.com/98125551/166172987-dac41886-3cbf-46a1-9ae4-d000587139c7.gif)
 ![chrome_odIvdvkKR0](https://user-images.githubusercontent.com/98125551/166172989-7aa82bac-49e1-4cac-b686-ed1a574dab38.gif)
 
+Ive been able to run most of the commands in the google command shell command prompt and I tried using these commands on my own command prompt but still get Errors.
